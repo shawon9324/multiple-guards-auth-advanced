@@ -11,10 +11,15 @@
 <h3> Welcome Geeks , Happy Coding 💻 </h3>
 
 ## FUNCTIONALITY
-#- Customize Multi Auth Guard 
-#- AJAX profile update with image
-#- Admin / User Role Management
-#- User Management
-#- Online password Recovery system enabled [smtp gmail] and many more . . .
+<p>
+<ul>
+<li>Customize Multi Auth Guard </li>
+<li>AJAX profile update with image</li>
+<li>Admin / User Role Management</li>
+<li>User Management</li>
+<li>Online password Recovery system enabled [smtp gmail] and many more . . .</li>
+</ul>
+</p>
+<p>
 
 # multiple-guards-auth-advanced
